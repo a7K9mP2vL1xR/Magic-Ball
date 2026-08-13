@@ -1,4 +1,4 @@
-# README
+# 
 customizable ball that can moving anywhere but its internal are dynamic that are controlling the ball and
 can change or modify the ball itself and even can make the ball have wearing like limb or something and
 skeleton is mechanical brain; managed splitting limb; and sphere; and hole on sphere (when opened) for that
