@@ -1,4 +1,4 @@
-A customization dynamic ball that can modify internal and outside
+A customization dynamic ball that can modify internal and outside and interact dynamically
 and it's skeleton is
 Sphere
 Hole (When Opened)
