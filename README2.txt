@@ -1,4 +1,4 @@
-A dynamic ball that can modify itself
+A dynamic ball that can modify itself and doing something outside
 and it's skeleton is
 Sphere
 Hole (When Opened)
