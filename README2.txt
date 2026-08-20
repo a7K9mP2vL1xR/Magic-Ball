@@ -6,4 +6,4 @@ Managed Limb (In interior)
 Mechanical Brain (In interior)
 Power Port (In interior)
 The Modifier Bot (In interior);
-And Communication to ball Using Power or Electricity
+And Controlling or Communication to ball Using Power or Electricity
